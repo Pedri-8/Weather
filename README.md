@@ -78,8 +78,3 @@ https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=m
 * API key is stored securely using environment variables
 
 ---
-
-```
-
-You can now paste this into your GitHub repo’s README editor. Let me know if you'd like to add a short Loom video description or deployment notes!
-```
